@@ -11,7 +11,7 @@
 **[Summary]** The spectacular production, *Walking With Dinosaurs* features 20 life-size dinosaurs, including the Tyrannosaurus rex, Plateosaurus, and Brachiosaurus
 
 **True Demand**  
-`[pickup] 399` `[dropoff] 253`
+pickup 399 \ \ \ dropoff \ \ \ 253
 
 **GBDT's results**  
 `[pickup] 483` `[dropoff] 304`
